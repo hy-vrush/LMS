@@ -1,0 +1,5 @@
+{
+  "name": "SigmaLearn - Meta-Driven LMS",
+  "description": "A static-first, folder-driven learning platform with automated course ingestion, admin dashboard, and progress tracking.",
+  "requestFramePermissions": []
+}
